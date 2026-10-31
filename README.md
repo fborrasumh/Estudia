@@ -2,7 +2,7 @@
 
 Tu espacio de estudio con IA sobre tus propios apuntes. Aplicación web de un solo fichero (`index.html`), sin servidor ni cuentas.
 
-**Usar la app:** https://fborrasumh.github.io/estudia/
+**Usar la app:** https://fborrasumh.github.io/Estudia/
 
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
