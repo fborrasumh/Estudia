@@ -4,6 +4,8 @@ Tu espacio de estudio con IA sobre tus propios apuntes. Aplicación web de un so
 
 **Usar la app:** https://fborrasumh.github.io/Estudia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23831520.svg)](https://doi.org/10.5281/zenodo.23831520)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -69,7 +71,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *EstudIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *EstudIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23831520](https://doi.org/10.5281/zenodo.23831520)
 
 ## Licencia
 
